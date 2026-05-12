@@ -1896,6 +1896,7 @@ input::placeholder {
 .right-7{
     margin:10px  0px;
 }
+
     .d-flexs {
         display: block;
     }
@@ -5112,9 +5113,7 @@ textarea::placeholder {
 .under-bottom{
     width: 93% !important;
 }
-.inside{
-    margin-left: 280px;
-}
+
 /* RESPONSIVE WEBSITE CODE */
 @media (max-width:768px) {
     .abc{
